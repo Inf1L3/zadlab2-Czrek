@@ -80,8 +80,13 @@ public class Main {
             System.out.println(i);
             
         }
-        */
-        
+ zadanie 1a
+        int a=odczyt.nextInt();
+        int b=odczyt.nextInt();
+        int c=odczyt.nextInt();
+        int d=b*b-4*a*c;
+        System.out.println(d);
+    */
     
     
     
